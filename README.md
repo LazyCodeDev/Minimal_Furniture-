@@ -1,4 +1,4 @@
-# unsplash_2
+# Minimal Furniture 
 
 A new Flutter project.
 
